@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganesh Betha</h1>
+<h1 align="center">Hi 👋, I'm Betha Ganesh</h1>
 
 <p align="center">
   🚀 Full-Stack Developer | 🔧 Data Structures Enthusiast | ☕ Java Programmer <br>
@@ -13,12 +13,18 @@
 
 ### 🌱 About Me
 
-- 🔭 I’m currently working on **AndhraAaharam - A Restaurant Website**
-- 🌿 I’m currently learning **Data Structures and Algorithms using Java**
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-- 💬 Ask me about **Java, React, Node.js, SQL**
-- 💡 Dream Company: **Tesla**
-- 📫 How to reach me: `bethaganesh18@gmail.com`
+- 🌿 I’m currently learning **DSA using Java**
+- 💬 Ask me about **MERN stack, Java, React**
+- 📫 How to reach me: **ganeshbetha180@gmail.com**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GaneshBetha18&theme=darkhub&column=7" alt="trophies" />
+</p>
+
 
 ---
 
