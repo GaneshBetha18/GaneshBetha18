@@ -1,9 +1,30 @@
 <h1 align="center">Hi 👋, I'm Ganesh Betha</h1>
-<h3 align="center">A Passionate Full-Stack Developer 🚀 | DSA Enthusiast 📚 | Java Programmer ☕</h3>
+
+<p align="center">
+  🚀 Full-Stack Developer | 🔧 Data Structures Enthusiast | ☕ Java Programmer <br>
+  💡 Passionate About Problem Solving | 🌱 Continuously Learning & Building
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=GaneshBetha18&label=Profile%20views&color=0e75b6&style=flat" alt="GaneshBetha18" />
 </p>
+
+---
+
+### 🌱 About Me
+
+- 🌿 I’m currently learning **DSA using Java**
+- 💬 Ask me about **MERN stack, Java, React**
+- 📫 How to reach me: **bethaganesh18@gmail.com**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GaneshBetha18&theme=darkhub&column=7" alt="trophies" />
+</p>
+
 
 ---
 
