@@ -52,14 +52,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GaneshBetha18&theme=darkhub&no-frame=true&column=7" />
-</p>
-
----
-
 ### 🔗 Connect with Me
 
 <p>
