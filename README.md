@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 - 💬 Ask me about **Java, React, Node.js, SQL**
 - 💡 Dream Company: **Tesla**
-- 📫 How to reach me: `ganeshbetha180@gmail.com`
+- 📫 How to reach me: `bethaganesh18@gmail.com`
 
 ---
 
