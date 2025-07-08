@@ -13,24 +13,8 @@
 
 ### 🌱 About Me
 
-- 🌿 I’m currently learning **DSA using Java**
-- 💬 Ask me about **MERN stack, Java, React**
-- 📫 How to reach me: **bethaganesh18@gmail.com**
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GaneshBetha18&theme=darkhub&column=7" alt="trophies" />
-</p>
-
-
----
-
-### 🚀 About Me
 - 🔭 I’m currently working on **AndhraAaharam - A Restaurant Website**
-- 🌱 I’m currently learning **Data Structures and Algorithms using Java**
+- 🌿 I’m currently learning **Data Structures and Algorithms using Java**
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 - 💬 Ask me about **Java, React, Node.js, SQL**
 - 💡 Dream Company: **Tesla**
@@ -51,10 +35,10 @@
   <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
-
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GaneshBetha18&show_icons=true&theme=radical" alt="GaneshBetha18 Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GaneshBetha18&theme=radical" alt="GaneshBetha18 Streak"/>
@@ -63,6 +47,7 @@
 ---
 
 ### 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=GaneshBetha18&theme=darkhub&no-frame=true&column=7" />
 </p>
@@ -82,14 +67,9 @@
 </p>
 
 ---
+
 ### 💡 LeetCode Profile
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/BethaGanesh?theme=dark&font=Baloo+Bhai&ext=heatmap)](https://leetcode.com/u/BethaGanesh/)
 
 ---
-
-> ⚡ Tip: Replace all profile links and emails with your actual info before uploading.
-
----
-
-Would you like me to send this as a ready `.md` file to upload directly to your GitHub profile repo?
