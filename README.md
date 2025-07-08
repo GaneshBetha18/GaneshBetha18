@@ -53,9 +53,9 @@
 </p>
 
 ---
+### 💡 LeetCode Profile
 
-### 💡 LeetCode Profile:
-![LeetCode Stats](https://leetcode.com/u/BethaGanesh/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/BethaGanesh?theme=dark&font=Baloo+Bhai&ext=heatmap)](https://leetcode.com/u/BethaGanesh/)
 
 ---
 
