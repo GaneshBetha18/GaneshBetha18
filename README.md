@@ -49,13 +49,13 @@
 ### 🔗 Connect with me:
 <p>
   <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-  <a href="mailto:ganeshbetha180@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
+  <a href="mailto:bethaganesh18@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
 </p>
 
 ---
 
 ### 💡 LeetCode Profile:
-![LeetCode Stats](https://leetcard.jacoblin.cool/lohithr011?theme=dark&font=Baloo+Bhai&ext=heatmap)
+![LeetCode Stats](https://leetcode.com/u/BethaGanesh/)
 
 ---
 
