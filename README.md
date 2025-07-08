@@ -46,10 +46,16 @@
 
 ---
 
-### 🔗 Connect with me:
+### 🔗 Connect with Me
+
 <p>
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
-  <a href="mailto:bethaganesh18@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
+  <a href="https://www.linkedin.com/in/ganesh-betha/" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" />
+  </a>
+  &nbsp;
+  <a href="mailto:ganeshbetha180@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" />
+  </a>
 </p>
 
 ---
