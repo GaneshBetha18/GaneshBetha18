@@ -15,7 +15,7 @@
 
 - 🌿 I’m currently learning **DSA using Java**
 - 💬 Ask me about **MERN stack, Java, React**
-- 📫 How to reach me: **ganeshbetha180@gmail.com**
+- 📫 How to reach me: **bethaganesh18@gmail.com**
 
 ---
 
